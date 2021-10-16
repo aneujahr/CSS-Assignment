@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(1, 146, 139);
+    text-align: left;
+    color: pink;
+    text-align: center;
+}
+
+div {
+    text-align: center;
+   }
+
+img {
+    height:300px;
+    width:300px;
+}

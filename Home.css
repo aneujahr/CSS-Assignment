@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(1, 146, 139);
+    text-align: left;
+    color: pink;
+}
+
+div {
+ text-align: center; 
+}
+
+#places {
+    padding: 20px;
+    border-width: 20px;
+    margin: 30px;
+    text-align: left;
+    float:left;
+}
+
+#travel-to {
+    padding: 20px;
+    border-width: 20px;
+    margin: 80px;
+    text-align:left;
+    float:left;
+}
+
